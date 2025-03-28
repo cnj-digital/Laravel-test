@@ -4,8 +4,8 @@ This test is a sample of the day to day requirements at CNJ Digital.
 The estimated time frame for completion of this test is 4-6 hours. Please keep track of the time spent as you will be probably asked about it. If you have any questions please don't hesitate to ask anyone involved in your interview process.
 
 ## Technical Requirements
- - Use the latest stable version of Laravel and React (**or** Vue.js)
- - The code/product has to be documented and preferably tested
+ - Use the latest stable version of Laravel and React
+ - The code/product has to be documented and tested
  - It should work on all major browsers
  
 ## Task Requirements
@@ -22,13 +22,13 @@ The dataset is available in this repo and is taken from here: https://www.kaggle
 This is provided just to understand the goal of this test, no CSS is required for this test, and it doesn't have to look like the provided design. The design file is in this repository.
 
 ## Goal
-A public repository link with a working form upload that parses the provided CSV correctly. Documentation and tests are recommended.
+A public/private repository link with a working form upload that parses the provided CSV correctly. Documentation and tests are recommended.
 
 ## We are looking for:
  - Maintainable and testable code
- - Unit/acceptance/feature tests if deemed necessary
+ - Unit/acceptance/feature tests when/if deemed necessary
  - Separation of concern
- - Use common Laravel/React/Vue practices
+ - Use common Laravel/React practices
 
 ## Tips
 Feel free to skip some parts if you are out of time, but comment out what is missing and add a super short explanation on how would you handle it. If something is not specified feel free to make assumptions.
