@@ -1,7 +1,7 @@
 # Laravel Test
 This test is a sample of the day to day requirements at CNJ Digital.
   
-The estimated time frame for completion of this test is 4-6 hours. Please keep track of the time spent as you will be probably asked about it. If you have any questions please don't hesitate to ask anyone involved in your interview process.
+The estimated time frame for completion of this test is 4-6 hours. Please keep track of the time spent as you will be asked about it. If you have any questions please don't hesitate to ask anyone involved in your interview process.
 
 ## Technical Requirements
  - Use the latest stable version of Laravel and React
@@ -10,7 +10,7 @@ The estimated time frame for completion of this test is 4-6 hours. Please keep t
  
 ## Task Requirements
  - Single page form with file upload functionality and a checkbox
- - Form handling in React **or** Vue.js
+ - Form handling in React
  - The form must upload data without a page reload (upload indicator is not required)
  - Show error on upload/parse failure (it should work only if the data is in the same format as the provided dataset)
  - If the optional checkbox is ticked it inserts the data into the database (this part is **optional**)
