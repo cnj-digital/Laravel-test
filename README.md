@@ -13,7 +13,7 @@ The estimated time frame for completion of this test is 4-6 hours. Please keep t
  - Form handling in React
  - The form must upload data without a page reload (upload indicator is not required)
  - Show error on upload/parse failure (it should work only if the data is in the same format as the provided dataset)
- - If the optional checkbox is ticked it inserts the data into the database (this part is **optional**)
+ - If the optional checkbox is ticked it inserts the data into the database
  - On data upload show the average of all prices sold, count of all houses sold, number of crimes in 2011, and the average price per year in the London area (check provided image)
  
 The dataset is available in this repo and is taken from here: https://www.kaggle.com/justinas/housing-in-london/data
@@ -33,5 +33,7 @@ A public/private repository link with a working form upload that parses the prov
 ## Tips
 Feel free to skip some parts if you are out of time, but comment out what is missing and add a super short explanation on how would you handle it. If something is not specified feel free to make assumptions.
 
+## Note on AI Usage
+It is ok to use LLMs or AI to solve this test! Please be prepared to discuss which (and why) AI tools you used during the next interview.
 
 Good luck 🙂
